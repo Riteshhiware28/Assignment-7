@@ -1,0 +1,98 @@
+
+.navbar__image{
+    justify-content: center;
+    height: 70px;
+    margin-top: 0.2%;
+    padding-left: 25px;
+}
+
+.navbar1{
+    padding-left: 55px;
+     display: flex;
+       background-color:black ; 
+    margin-top: -0.6%;
+     width: 100%;
+}
+.pro{
+  margin-left: 50%;
+    margin-top: 2.5%;
+    position: absolute;
+    background-color: transparent;
+    font-size: 17px;
+    color: white;
+    border-radius: 0%;
+    border: 0px solid #5c5858;
+    outline: none;
+    border: none;
+}
+.pro1{
+  margin-left: 57%;
+ margin-top: 2.5%;
+    position: absolute;
+    background-color: transparent;
+    font-size: 17px;
+    color: white;
+    border-radius: 0%;
+    border: 0px solid #5c5858;
+    outline: none;
+    border: none;
+}
+.down{
+  margin-left: 64%;
+ margin-top: 2.5%;
+    position: absolute;
+    background-color: transparent;
+    font-size: 17px;
+    color: white;
+    border-radius: 0%;
+    border: 0px solid #5c5858;
+    outline: none;
+    border: none;
+}
+ .vertical {
+     border-left: 2.5px solid white;
+       margin-top: 2.5%;
+       height: 20px;
+       position:absolute;
+       margin-left: 74%;
+}
+.sign{
+  margin-left: 64%;
+  margin-top: 2.5%;
+    position: absolute;
+    background-color: transparent;
+    font-size: 17px;
+    color: white;
+    border-radius: 0%;
+    border: 0px solid #5c5858;
+    outline: none;
+    border: none;
+}
+.log{
+  margin-left: 71%;
+    position: absolute;
+  margin-top: 2.5%;
+    background-color: transparent;
+   font-size: 17px;
+    color: white;
+    border-radius: 0%;
+    border: 0px solid #5c5858;
+    outline: none;
+    border: none;
+}
+.logimg{
+ width:100%;
+ height:100%;
+}
+.login1{
+ margin-top:-17%;
+  position: absolute;
+   margin-left: 50%;
+   background-color:green;
+    border: 1px solid green;
+    outline: none;
+    font-size: 14px;
+    border-radius: 20px;
+    height:3.2%;
+    color:blue;
+}
