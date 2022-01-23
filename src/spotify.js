@@ -1,7 +1,7 @@
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "https://romantic-edison-caedd4.netlify.app";
+const redirectUri = "https://spotify-gaana-clone.netlify.app";
 const clientId = "2f46951d76014824a63efee618a5fb71"
 
 const scopes = [
